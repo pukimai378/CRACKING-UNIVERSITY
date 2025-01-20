@@ -34,17 +34,17 @@ pkg install clang python binutils libffi openssl libsodium
 
 SODIUM_INSTALL=system pip3 install pynacl
 
-git clone https://github.com/pukimai378/Cracking-Ig
+git clone https://github.com/pukimai378/CRACKING-UNIVERSITY
 
-cd Cracking-Ig
+cd CRACKING-UNIVERSITY
 
-python cracking-ig.py
+python C-I-U.py
 
 ⚜️ CARA RUN TOOLS ⚜️
 
-cd Cracking-Ig
+cd CRACKING-UNIVERSITY
 
-python cracking-ig.py
+python C-I-U.py
 
 
 CATATAN: result crack followers banyak atau sedikit nya tergantung target yang di dapatkan pintar-pintar dalam mencari target
