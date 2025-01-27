@@ -44,7 +44,7 @@ python C-I-U.py
 
 cd CRACKING-UNIVERSITY
 
-python C-I-U.py
+python run.py
 
 
 CATATAN: result crack followers banyak atau sedikit nya tergantung target yang di dapatkan pintar-pintar dalam mencari target
