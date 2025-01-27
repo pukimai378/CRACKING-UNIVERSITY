@@ -38,7 +38,7 @@ git clone https://github.com/pukimai378/CRACKING-UNIVERSITY
 
 cd CRACKING-UNIVERSITY
 
-python C-I-U.py
+python run.py
 
 ⚜️ CARA RUN TOOLS ⚜️
 
